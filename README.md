@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Orbitron', sans-serif; font-size: 42px; color: #00FFFF; text-shadow: 2 0 10px #00FFFF, 0 0 25px #0088FF;">
-𝗞𝗛𝗔𝗡-𝗠𝗗
+𝙏𝙃𝙀𝙒 𝙋𝙍𝙄𝙉𝘾𝙀
 </h1>
 
 ---
@@ -10,17 +10,17 @@
 
 ---
 
-<h2 align="center">📊 KHAN-MD Analytics </h2> 
+<h2 align="center">📊 𝙏𝙃𝙀𝙒 𝙋𝙍𝙄𝙉𝘾𝙀 Analytics </h2> 
 
 ---
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=JawadYT36&label=Profile+Views&color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/stars/JawadYT36/KHAN-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/forks/JawadYT36/KHAN-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/repo-size/JawadYT36/KHAN-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/JawadYT36/KHAN-MD?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/stars/JawadYT36/𝙏𝙃𝙀𝙒 𝙋𝙍𝙄𝙉𝘾𝙀?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/forks/JawadYT36/𝙏𝙃𝙀𝙒 𝙋𝙍𝙄𝙉𝘾𝙀?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/repo-size/JawadYT36/𝙏𝙃𝙀𝙒 𝙋𝙍𝙄𝙉𝘾𝙀?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/JawadYT36/𝙏𝙃𝙀𝙒 𝙋𝙍𝙄𝙉𝘾𝙀?color=ff00ff&style=flat-square" />
 
 </div>
 
@@ -35,7 +35,7 @@
 <p align="center"><strong>⚡ VERSION 5.0</strong></p>
 
 <p align="center">
-  <a href="https://github.com/JawadTechXD/KHAN-MD" target="_blank">
+  <a href="https://github.com/JawadTechXD/𝙏𝙃𝙀𝙒 𝙋𝙍𝙄𝙉𝘾𝙀" target="_blank">
     <img 
       src="https://img.shields.io/badge/🚀 Deploy_from_New_Repo-ff003c?style=for-the-badge&logo=github&logoColor=white" 
       alt="Deploy Button"

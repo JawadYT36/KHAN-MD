@@ -10,33 +10,31 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
     // ===== BOT CORE SETTINGS =====
-    SESSION_ID: process.env.SESSION_ID || "",  // Your bot's session ID (keep it secure)
-    XDEV: process.env.XDEV || "",  // Github Username 
+    SESSION_ID: process.env.SESSION_ID || "IK~2R8U0BJZ#i0dzuGBI0pcC_91Hk32w5w0YpndfkauMw_ET-cpda9E",  // Your bot's session ID (keep it secure)
+    XDEV: process.env.XDEV || "亗•MOᕼᔕIᑎ🎀Sᕼᗩᕼᘔᗩᗪ✿᭄",  // Github Username 
     PREFIX: getConfig("PREFIX") || ".",  // Command prefix (e.g., "., / ! * - +")
     CHATBOT: getConfig("CHATBOT") || "off", // on/off chat bot 
-    BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "KHAN-MD",  // Bot's display name
+    BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "亗•MOᕼᔕIᑎ🎀Sᕼᗩᕼᘔᗩᗪ✿᭄",  // Bot's display name
     MODE: getConfig("MODE") || process.env.MODE || "public",        // Bot mode: public/private/group/inbox
-    REPO: process.env.REPO || "https://github.com/JawadTechXD/KHAN-MD",  // Bot's GitHub repo
-    BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",  // Bot's BAILEYS
-
+    
     // ===== OWNER & DEVELOPER SETTINGS =====
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "923427582273",  // Owner's WhatsApp number
-    OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "Jᴀᴡᴀᴅ TᴇᴄʜX",           // Owner's name
-    DEV: process.env.DEV || "923427582273",                     // Developer's contact number
-    DEVELOPER_NUMBER: '923427582273@s.whatsapp.net',            // Developer's WhatsApp ID
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "923356695833",  // Owner's WhatsApp number
+    OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "亗•MOᕼᔕIᑎ🎀Sᕼᗩᕼᘔᗩᗪ✿᭄",           // Owner's name
+    DEV: process.env.DEV || "923356695833",                     // Developer's contact number
+    DEVELOPER_NUMBER: '923356695833@s.whatsapp.net',            // Developer's WhatsApp ID
 
     // ===== AUTO-RESPONSE SETTINGS =====
     AUTO_REPLY: process.env.AUTO_REPLY || "false",              // Enable/disable auto-reply
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",// Reply to status updates?
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*KHAN MD VIEWED YOUR STATUS 🤖*",  // Status reply message
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*亗•MOᕼᔕIᑎ🎀Sᕼᗩᕼᘔᗩᗪ✿᭄ VIEWED YOUR STATUS*",  // Status reply message
     READ_MESSAGE: process.env.READ_MESSAGE || "false",          // Mark messages as read automatically?
     REJECT_MSG: process.env.REJECT_MSG || "*📞 ᴄαℓℓ ɴσт αℓℓσωє∂ ιɴ тнιѕ ɴᴜмвєʀ уσυ ∂σɴт нανє ᴘєʀмιѕѕισɴ 📵*",
     // ===== REACTION & STICKER SETTINGS =====
-    AUTO_REACT: process.env.AUTO_REACT || "false",              // Auto-react to messages?
-    OWNER_REACT: process.env.OWNER_REACT || "false",              // Auto-react to messages?
-    CUSTOM_REACT: process.env.CUSTOM_REACT || "false",          // Use custom emoji reactions?
+    AUTO_REACT: process.env.AUTO_REACT || "true",              // Auto-react to messages?
+    OWNER_REACT: process.env.OWNER_REACT || "true",              // Auto-react to messages?
+    CUSTOM_REACT: process.env.CUSTOM_REACT || "true",          // Use custom emoji reactions?
     CUSTOM_REACT_EMOJIS: getConfig("CUSTOM_REACT_EMOJIS") || process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",  // set custom reacts
-    STICKER_NAME: process.env.STICKER_NAME || "ᴋʜᴀɴ-ᴍᴅ",     // Sticker pack name
+    STICKER_NAME: process.env.STICKER_NAME || "亗•MOᕼᔕIᑎ🎀Sᕼᗩᕼᘔᗩᗪ✿᭄",     // Sticker pack name
     AUTO_STICKER: process.env.AUTO_STICKER || "false",          // Auto-send stickers?
     // ===== MEDIA & AUTOMATION =====
     AUTO_RECORDING: process.env.AUTO_RECORDING || "false",      // Auto-record voice notes?
@@ -56,9 +54,9 @@ module.exports = {
     PM_BLOCKER: process.env.PM_BLOCKER || "true",
 
     // ===== BOT BEHAVIOR & APPEARANCE =====
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*",  // Bot description
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 亗•MOᕼᔕIᑎ🎀Sᕼᗩᕼᘔᗩᗪ✿᭄*",  // Bot description
     PUBLIC_MODE: process.env.PUBLIC_MODE || "true",              // Allow public commands?
-    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",        // Show bot as always online?
+    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",        // Show bot as always online?
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true", // React to status updates?
     AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true", // VIEW to status updates?
     AUTO_BIO: process.env.AUTO_BIO || "false", // ture to get auto bio 

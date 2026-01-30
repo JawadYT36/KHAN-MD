@@ -95,7 +95,7 @@
 
 ### 🌊 GET SESSION ID
 <p align="center">
-  <a href="https://khanmd-pair.onrender.com/">
+  <a href="https://jawadtechx.vercel.app/pair">
     <img src="https://img.shields.io/badge/💫_PAIR_GENRATER-4F46E5?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1e1b4b" alt="Long Session"/>
   </a>
 </p>

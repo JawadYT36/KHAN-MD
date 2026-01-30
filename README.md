@@ -142,7 +142,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://jawadtech-vps.onrender.com" target="_blank">
+      <a href="https://jawadtechx.vercel.app" target="_blank">
         <img alt="VPS Deploy" src="https://img.shields.io/badge/VPS_DEPLOY-Free_Unlimited-8A2BE2?style=for-the-badge&logo=serverless&logoColor=white&labelColor=0F0529"/>
       </a>
     </td>

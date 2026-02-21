@@ -1,8 +1,5 @@
-
 module.exports = {
   SESSION_ID: "",  // add session Id 
-  
-  OWNER_NUMBER: "923427582273", // owner number 
   
   PREFIX: ".", // prefix (e.g., ., /, !, *)
   

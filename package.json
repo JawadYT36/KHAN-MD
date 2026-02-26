@@ -1,6 +1,6 @@
 {
   "name": "KHAN-MD",
-  "version": "10.0",
+  "version": "10.0.0",
   "description": "A WhatsApp Bot Created By JawadTechX",
   "main": "index.js",
   "scripts": {

@@ -27,7 +27,7 @@
 </h1>
 </p>
 </p>
-    <img src="https://komarev.com/ghpvc/?username=JawadYT36&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=NOXM-MD&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/stars/JawadYT36/KHAN-MD?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
     <img src="https://img.shields.io/github/forks/JawadYT36/KHAN-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
     <img src="https://img.shields.io/github/followers/JawadYT36?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
